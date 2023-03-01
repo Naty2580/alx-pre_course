@@ -1,1 +1,1 @@
-this is read me for the oxo1-git directory
+ this is second read me for 0x01-git
